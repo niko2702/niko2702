@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niko2702
 - 👀 I’m interested in digital business
 - 🌱 I’m currently learning at business school IPB University
-- 💞️ I’m looking to collaborate on business or programming
+- 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me nikoputranto@gmail.com
 
 <!---
